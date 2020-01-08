@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flash Light</string>
+    <string name="flashlight_off">FLASHLIGHT OFF</string>
+    <string name="blink_flashlight">BLINK FLASHLIGHT</string>
+</resources>
